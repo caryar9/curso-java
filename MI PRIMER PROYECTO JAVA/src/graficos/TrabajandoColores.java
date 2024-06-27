@@ -32,7 +32,7 @@ class LaminaConColor extends JPanel {
 
         Graphics2D g2 = (Graphics2D) g;
 
-        // Dibujo de rectangulo
+       
         Rectangle2D rectangulo = new Rectangle2D.Double(100, 100, 200, 150);
         
         g2.setPaint(Color.BLUE);
